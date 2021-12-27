@@ -1,1 +1,1 @@
-# test
+apt update && apt upgrade -y
